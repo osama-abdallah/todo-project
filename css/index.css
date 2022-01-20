@@ -1,1 +1,17 @@
-#logoAndName{color: blue;}
+#logoAndName{color:khaki;margin-bottom: 0px;}
+header{background-color: #808080; position: fixed;
+    top: 0;width: 100%;overflow: hidden}
+#navg{text-align: center;margin-top: 0px;}
+li{display: inline-block;padding: 10px;margin-right: 50px;margin-left: 50px;background-color: khaki;border: black;border-style: solid;border-width: 1px;}
+a{color: black;}
+table{margin-left: auto;margin-right: auto;text-align: center;border-style: solid;border-color: black;border-width: 2px;}
+footer{ position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;;background-color: #808080;}
+   h2{text-align: center;margin-top: 200px;margin-bottom: 100px;}
+   body{background-color: khaki;}
+   #tasks{font-weight: bold;}
+   #status{font-weight: bold;}
